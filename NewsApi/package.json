@@ -1,0 +1,11 @@
+{
+    "name": "modules",
+    "version": "0.0.0.1",
+    "description": "This project will analyse news articles",
+    "private": true,
+     "dependencies": {
+    "request": "^2.4.20",
+    "twit": "^2.2.5"
+  }
+    
+}
