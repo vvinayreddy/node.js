@@ -1,0 +1,11 @@
+{
+  "name": "newsapi",
+  "version": "0.0.2",
+  "description": "This project will analyse news articles",
+  "private": true,
+  "dependencies": {
+    "async": "^2.1.5",
+    "request": "^2.4.20",
+    "twit": "^2.2.5"
+  }
+}
